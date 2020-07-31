@@ -1,11 +1,11 @@
 # Site settings
-author: Paloma Mirta Mendez
-title: 
+author: Paloma Mendez
+title: My First Week!
 header-img: img/home-bg.png
 email: mpaloma2014@gmail.com
-copyright_name: Paloma Mirta Mendez
+copyright_name: Paloma Mendez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  The bumps and snags of a beginner
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  popkorn96
