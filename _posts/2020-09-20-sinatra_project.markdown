@@ -22,7 +22,7 @@ The next aspect I wanted to make sure was legible was the date, so I changed the
 <br>
 My date output also needed some adjustment, so I made sure that the full month name, day and year were written out 
 
-`<li>Due Date: <%= @bill.due_date.strftime("%A, %b. %-d, %Y") %><br><br>`
+```<li>Due Date: <%= @bill.due_date.strftime("%A, %b. %-d, %Y") %><br><br>```
 
 <br>
 The menu includes the options to show all of the user's bills, create a new bill, show the included calendar, and the option to log out that clears the current session and effectively assures that the user must log in again with the same credentials to view the same information as before.<br>
