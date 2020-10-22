@@ -32,12 +32,15 @@ This should have worked for me and let me assign as many assignments to as many 
 The resulting join table in your schema should look like this: <br>
 ```
   create_table "assignments_children", force: :cascade do |t|
+	
     t.integer "assignment_id"
     t.integer "child_id"
     t.index ["assignment_id"], name: "index_assignments_children_on_assignment_id"
     t.index ["child_id"], name: "index_assignments_children_on_child_id"
+		
   end
-```<br>
+```
+<br>
 
 This project almost got the best of me but I pulled through and made something I am extremely proud of!
 
