@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Mock Tech Interview - Study Guide and Advice"
-date:       2021-02-16 22:19:53 +0000
+date:       2021-02-16 17:19:53 -0500
 permalink:  mock_tech_interview_-_study_guide_and_advice
 ---
 
@@ -9,7 +9,7 @@ permalink:  mock_tech_interview_-_study_guide_and_advice
    Most of the time, job-seekers in the software development field are given the recommendation to complete a mock technical interview to prepare for what a real technical interview might look like when applying for developer jobs. These mock interviews are given to test a potential hire on their foundational knowledge of a programming language, arithmetic problem solving ability, and perhaps framework or library familiarity. There are countless resources available online, and luckily I found an instagram account that posted a [study guide](https://docs.google.com/spreadsheets/d/124ehfzCzZc-eXLAhwLJx5dXo7ooc7RV_qlodSEvMT58/edit?usp=sharing) for a basic tech interview (by [@champagnecoder](http://www.instagram.com/champagnecoder/)). <br>
 	 
 There are also a few resources that help coders practice algorithm problems, some of which are:
-*[Code Signal](https://codesignal.com/)
+* [Code Signal](https://codesignal.com/)
 * [Leetcode - FIS DSA 100+](https://leetcode.com/list/5r99deem/)
 * [AlgoExpert](https://www.algoexpert.io/questions)
 * [HackerRank - Data Structures](https://www.hackerrank.com/domains/data-structures)
