@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Starting with Java"
-date:       2021-07-18 19:30:25 +0000
+title:      "Java, Java, Java"
+date:       2021-07-18 15:30:25 -0400
 permalink:  starting_with_java
 ---
 
