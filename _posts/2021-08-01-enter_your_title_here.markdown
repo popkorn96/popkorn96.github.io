@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Enter your title here"
-date:       2021-08-02 01:34:00 +0000
+title:      "Java Emails!"
+date:       2021-08-01 21:34:00 -0400
 permalink:  enter_your_title_here
 ---
 
